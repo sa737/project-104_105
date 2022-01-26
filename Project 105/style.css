@@ -1,0 +1,26 @@
+body
+{
+    color: white;
+    background: linear-gradient(rgb(255, 0, 0),rgb(255, 145, 0),rgb(255, 251, 0),rgb(104, 19, 97));
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+#jwalaa
+{
+     background-color: rgb(240, 72, 94);
+}
+#mittitfo
+{
+        color: rgb(25, 0, 255);
+}
